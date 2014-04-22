@@ -13,6 +13,10 @@ If you want to add your group, here's how.
 
 **If you don't know what all that means**, simply [https://github.com/osmlab/localgroups/issues/new](open an issue) with the details of your group and we'll make sure it gets added.
 
+#### Point or polygon?
+
+The simplest way to add your group is by adding a point that reflects where your local group is active. Even better is to add a polygon to cover the area that your local group services. Use [http://geojson.io](geojson.io) to draw one.
+
 ### Using this map elsewhere
 
 If you click on the geoJSON file above, you will see a pretty map. You can click on the markers to see the information assiciated with each group.
