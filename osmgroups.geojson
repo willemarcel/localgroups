@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "http://maptimeslc.org/",
+        "contact": "martijn@maptimeslc.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89266204833984,
+          40.76832172749444
+        ]
+      }
+    }
+  ]
+}
