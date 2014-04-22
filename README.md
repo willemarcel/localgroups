@@ -3,7 +3,7 @@ Local OpenStreetMap Groups
 
 This is an annotated map of local OpenStreetMap user groups worldwide. 
 
-Wait, don't we already have one of those? Yes, [http://usergroups.openstreetmap.de/](here). But that map relies on adding specific code to the OpenStreetMap wiki and consequently, a lot of groups just don't appear on that map. 
+Wait, don't we already have one of those? [Yes.](http://usergroups.openstreetmap.de/) But that map relies on adding specific code to the OpenStreetMap wiki and consequently, a lot of groups just don't appear on that map. 
 
 ### Adding your local group
 
@@ -11,11 +11,11 @@ If you want to add your group, here's how.
 
 **If you're familiar with GeoJSON and Github**, fork this repository, add your group to the GeoJSON file, and submit a pull request.
 
-**If you don't know what all that means**, simply [https://github.com/osmlab/localgroups/issues/new](open an issue) with the details of your group and we'll make sure it gets added.
+**If you don't know what all that means**, simply [open an issue](https://github.com/osmlab/localgroups/issues/new) with the details of your group and we'll make sure it gets added.
 
 #### Point or polygon?
 
-The simplest way to add your group is by adding a point that reflects where your local group is active. Even better is to add a polygon to cover the area that your local group services. Use [http://geojson.io](geojson.io) to draw one.
+The simplest way to add your group is by adding a marker that reflects where your local group is active. Even better is to add a polygon to cover the area that your local group services. Use [geojson.io](http://geojson.io/) to draw one.
 
 ### Using this map elsewhere
 
