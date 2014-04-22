@@ -3,6 +3,8 @@ Local OpenStreetMap Groups
 
 This is an annotated map of local OpenStreetMap user groups worldwide. 
 
+Wait, don't we already have one of those? Yes, [http://usergroups.openstreetmap.de/](here). But that map relies on adding specific code to the OpenStreetMap wiki and consequently, a lot of groups just don't appear on that map. 
+
 ### Adding your local group
 
 If you want to add your group, here's how. 
@@ -18,5 +20,7 @@ If you click on the geoJSON file above, you will see a pretty map. You can click
 You can use this map elsewhere by adding this bit of code to your web page:
 
     <script src="https://embed.github.com/view/geojson/osmlab/localgroups/blob/master/osmgroups.geojson"></script>
-    
+
+Or you can use the geoJSON directly in any way you see fit.
+
 Happy mapping!
