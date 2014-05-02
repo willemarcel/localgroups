@@ -851,6 +851,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Incontro mappatori Romani",
+        "website": "http://wiki.openstreetmap.org/wiki/Rome/Incontro",
+        "contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.495985329151154,
+          41.859481401910465
+        ]
+      }
     }
   ]
 }
