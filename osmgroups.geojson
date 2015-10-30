@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "OpenStreetMap Brasília",
+        "website": "http://www.meetup.com/pt/OpenStreetMap-Brasilia/",
+        "contact": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.89043426513672,
+          -15.756555633572768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Seattle OSM Group",
         "website": "http://www.meetup.org/OpenStreetMap-Seattle",
         "contact": "clifford@snowandsnow.us"
